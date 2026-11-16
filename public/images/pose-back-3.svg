@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="ภาพประกอบท่าแก้ลมปัตฆาต">
+  <rect width="320" height="240" rx="22" fill="#f1f8f2"/>
+  <ellipse cx="160" cy="216" rx="130" ry="10" fill="#dbeadf"/>
+  <g >
+    <path d="M130 192 L252 194" stroke="#35506b" stroke-width="24" stroke-linecap="round" fill="none"/>
+    <g transform="rotate(0 252 190)"><ellipse cx="262" cy="188" rx="9" ry="14" fill="#f6dcc8" stroke="#deb99c" stroke-width="1.2"/></g>
+    <path d="M130 192 L176 146 L214 190" stroke="#3d5b79" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <ellipse cx="216" cy="198" rx="14" ry="8" fill="#f6dcc8" stroke="#deb99c" stroke-width="1.2"/>
+    <path d="M130 192 L126 120" stroke="#58b36a" stroke-width="42" stroke-linecap="round" fill="none"/>
+    <path d="M126 112 L126 96" stroke="#f6dcc8" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="128" cy="78" r="22" fill="#f6dcc8" stroke="#deb99c" stroke-width="1.2"/>
+    <path d="M106 76 C104 50 152 50 150 76 C146 64 136 60 128 60 C118 60 110 66 106 76Z" fill="#4b3a2e"/>
+    <ellipse cx="117" cy="80" rx="2" ry="2.8" fill="#4b3a2e"/>
+    <path d="M114 90 Q120 94 126 89" fill="none" stroke="#b4684f" stroke-width="2" stroke-linecap="round"/>
+    <path d="M120 124 L98 156 L96 184" fill="none" stroke="#f6dcc8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><circle cx="96" cy="186" r="9" fill="#f6dcc8" stroke="#deb99c" stroke-width="1.2"/><path d="M126 124 L156 150 L176 148" fill="none" stroke="#f6dcc8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><circle cx="178" cy="148" r="9" fill="#f6dcc8" stroke="#deb99c" stroke-width="1.2"/>
+    <path d="M92 104 C 66 124, 68 168, 98 186" fill="none" stroke="#f08a3c" stroke-width="5" stroke-linecap="round"/><path d="M106 190 L88 188 L98 172Z" fill="#f08a3c"/>
+  </g>
+</svg>

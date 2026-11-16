@@ -1,0 +1,21 @@
+node_modules
+dist
+
+# เอกสารข้อเสนอมีชื่อบุคคล — ไม่ขึ้น repo สาธารณะ (วางไว้ในเครื่องได้ ปุ่มดาวน์โหลดจะขึ้นตอน build ในเครื่อง)
+public/docs/*.docx
+
+# ไฟล์ชั่วคราวของ Excel / OneDrive
+~$*.xlsx
+*.tmp
+
+# เอกสารเป็นความลับ — ไม่ขึ้น GitHub (เอาเฉพาะโค้ดเว็บ)
+*.docx
+*.doc
+*.pdf
+public/docs/
+ref*.png
+ref*.jpg
+
+# ไม่ใช้ README
+README.md
+public/images/README.txt

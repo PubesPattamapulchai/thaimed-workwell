@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="โลโก้ ThaiMed WorkWell Sakhon">
+  <defs>
+    <linearGradient id="lf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9bd96f"/><stop offset="1" stop-color="#2e9d4a"/></linearGradient>
+    <linearGradient id="bw" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3a64b"/><stop offset="1" stop-color="#b9742a"/></linearGradient>
+  </defs>
+  <path d="M128 206 C58 212 16 164 20 108 C68 114 112 148 128 206Z" fill="url(#lf)"/>
+  <path d="M128 206 C198 212 240 164 236 108 C188 114 144 148 128 206Z" fill="url(#lf)"/>
+  <path d="M128 198 C98 160 98 108 128 64 C158 108 158 160 128 198Z" fill="#43b05c"/>
+  <path d="M128 198 C114 160 116 112 128 80" fill="none" stroke="#2e9d4a" stroke-width="3" stroke-linecap="round"/>
+  <g transform="rotate(24 128 122)"><rect x="120" y="66" width="16" height="92" rx="8" fill="#ecc16a"/><circle cx="128" cy="66" r="13" fill="#ecc16a"/></g>
+  <path d="M78 150 H178 C178 190 158 208 128 208 C98 208 78 190 78 150Z" fill="url(#bw)"/>
+  <rect x="72" y="143" width="112" height="13" rx="6.5" fill="#d4934a"/>
+  <circle cx="176" cy="118" r="7" fill="#f08a3c"/><circle cx="190" cy="130" r="5" fill="#f2a24d"/>
+  <ellipse cx="128" cy="228" rx="60" ry="8" fill="#cfe8d5"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="ภาพประกอบท่าฤๅษีดัดตน">
+  <rect width="320" height="240" rx="22" fill="#f1f8f2"/>
+  <ellipse cx="160" cy="214" rx="104" ry="10" fill="#dbeadf"/>
+  <!-- ขาไขว้ -->
+  <path d="M96 196 C100 176 136 168 164 176 L164 206 C140 214 108 214 96 196Z" fill="#35506b"/>
+  <path d="M224 196 C220 176 184 168 156 176 L156 206 C180 214 212 214 224 196Z" fill="#3d5b79"/>
+  <ellipse cx="104" cy="204" rx="12" ry="8" fill="#f6dcc8"/><ellipse cx="216" cy="204" rx="12" ry="8" fill="#f6dcc8"/>
+  <g transform="rotate(0 160 180)">
+    <!-- ลำตัว -->
+    <path d="M128 96 C140 88 180 88 192 96 C198 120 196 150 192 178 L128 178 C124 150 122 120 128 96Z" fill="#58b36a"/>
+    <path d="M148 90 L172 90 L160 104Z" fill="#46a05a"/>
+    <rect x="152" y="70" width="16" height="22" rx="7" fill="#f6dcc8"/>
+    <!-- ศีรษะ -->
+    <g transform="rotate(0 160 88)">
+      <ellipse cx="160" cy="56" rx="23" ry="26" fill="#f6dcc8" stroke="#deb99c" stroke-width="1.2"/>
+      <path d="M136 52 C132 22 188 22 184 52 C180 40 172 34 160 34 C148 34 140 40 136 52Z" fill="#4b3a2e"/>
+      <ellipse cx="151" cy="58" rx="2" ry="2.8" fill="#4b3a2e"/><ellipse cx="169" cy="58" rx="2" ry="2.8" fill="#4b3a2e"/>
+      <path d="M152 70 Q160 76 168 70" fill="none" stroke="#b4684f" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <path d="M134 102 L126 62 L152 24" fill="none" stroke="#f6dcc8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><path d="M134 102 L126 62 L152 24" fill="none" stroke="#deb99c" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".0"/><path d="M186 102 L194 62 L168 24" fill="none" stroke="#f6dcc8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><path d="M186 102 L194 62 L168 24" fill="none" stroke="#deb99c" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".0"/>
+    <circle cx="160" cy="18" r="9" fill="#f6dcc8" stroke="#deb99c" stroke-width="1.2"/>
+  </g>
+  <path d="M92 120 L92 70" fill="none" stroke="#f08a3c" stroke-width="5" stroke-linecap="round"/><path d="M82 76 L92 56 L102 76Z" fill="#f08a3c"/><path d="M228 120 L228 70" fill="none" stroke="#f08a3c" stroke-width="5" stroke-linecap="round"/><path d="M218 76 L228 56 L238 76Z" fill="#f08a3c"/>
+</svg>
